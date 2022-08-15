@@ -44,4 +44,4 @@ After create the script for mint NFt using ether.js. Run
 ```shell
 $ node scripts/mint-nft.js
 ```
-Then your NFT will go mint.
+Then your NFT will go be mint.

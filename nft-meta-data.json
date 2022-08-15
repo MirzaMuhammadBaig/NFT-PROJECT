@@ -1,0 +1,11 @@
+{
+    "attribute": [
+    {
+        "color": "black",
+        "vallue": "ABC"
+    }
+],
+    "description": "This is my first NFT",
+    "image": "https://gateway.pinata.cloud/ipfs/QmRZLGamuXnsWaqHgKRQFaupr1np4qBwDFoGqRdtiocBf8",
+    "name": "Non-Fungible Token"
+}
